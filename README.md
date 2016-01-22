@@ -77,7 +77,7 @@ A key feature of OSS is the ability to accept contributions from non-Census cred
 
 ## Thanks
 
-The Census Bureau would like to thank our early [CitySDK](https://uscensusbureau.github.io/citysdk/) users and contributors, who provided significant feedback to improve who we do open source.  We’d also like to thank [18F](https://github.com/18F/open-source-policy) and [CFPB](https://github.com/cfpb/source-code-policy), where much of this policy was inspired.
+The Census Bureau would like to thank our early [CitySDK](https://uscensusbureau.github.io/citysdk/) users and contributors, who provided significant feedback to improve how we do open source.  We’d also like to thank [18F](https://github.com/18F/open-source-policy) and [CFPB](https://github.com/cfpb/source-code-policy), where much of this policy was inspired.
 
 ## Future Changes
 
